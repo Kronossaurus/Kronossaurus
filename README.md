@@ -1,4 +1,9 @@
-## Hi there 👋
+## 👋 Hi, I'm Victor Carriço
+
+- 🖥️ I've been coding in Python primarily for over 6 years
+- 🌱 I’m currently learning Computer Vision with OpenCV
+- 📫 How to reach me: victor.hugo.carrico@gmail.com
+- ⚡ Fun fact: I play chess for over 21 years!
 
 <!--
 **Kronossaurus/Kronossaurus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
